@@ -1,0 +1,23 @@
+@import'../index.scss';
+
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+
+    background: $mainblack;
+   
+}
+.navlinks{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    width: 100%;
+    justify-content: space-around;   
+    align-items: center;    
+}
+.navlinks li a{
+    text-decoration: none;
+    color: $mainwhite;
+    font-size: 3vh;
+}
