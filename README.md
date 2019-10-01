@@ -1,3 +1,5 @@
+This is a single page tour app and i have used sass in it.It just renders popular tours.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
